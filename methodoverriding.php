@@ -31,4 +31,5 @@ echo "<br>";
 
 $anjing->suara(); // Output: Guk Guk
 8
+
 ?>
